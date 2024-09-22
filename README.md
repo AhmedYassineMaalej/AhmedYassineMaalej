@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/maalej.ahmedyassine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 &nbsp;
 
-## Glad to see you here! &nbsp; ![](https://github.com/AhmedYassineMaalej)
+## Glad to see you here! &nbsp; ![](https://api.visitorbadge.io/api/VisitorHit?user=ahmedyassinemaalej&repo=ahmedyassinemaalej&countColor=%237B1E7A&style=plastic&labelStyle=upper&label=visits)
 
 I'm a math's student. I love coming up with elegant solutions to seemingly complex problems and contemplate the rigor and completeness that it provides.
 
