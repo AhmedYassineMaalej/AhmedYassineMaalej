@@ -1,13 +1,5 @@
 # Welcome to my github 👋
 
-<a href="https://www.linkedin.com/in/ahmed-yessine-maalej-8b9884261/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"   width="40" /></a>
-&nbsp;
-<a href="https://twitter.com/AymTunisia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.youtube.com/@aym1233" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/maalej.ahmedyassine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-&nbsp;
 
 ## Glad to see you here! &nbsp; ![](https://api.visitorbadge.io/api/VisitorHit?user=ahmedyassinemaalej&repo=ahmedyassinemaalej&countColor=%237B1E7A&style=plastic&labelStyle=upper&label=visits)
 
@@ -19,24 +11,30 @@ I enjoy programming and spend my free time working on either personal project or
 
 ### More About Me:
 
-- 👨‍🎓 I'm a **Math's student** <!-- - 🔭 I’m currently working on a personal project "**MLINYB**" -->
+- 👨‍🎓 [INSAT](https://insat.rnu.tn/) student <!-- - 🔭 I’m currently working on a personal project "**MLINYB**" -->
+- 💪 Proficient in python and rust.
 - 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
-  - Rust
-  - Data Structures and Algorithms.
-  - Problem Solving.
 - 📬 How to reach me: [ahmedyessinemaalej@gmail.com](mailto:ahmedyessinemaalej@gmail.com)<!-- - 📝 [Resume](https://drive.google.com/file/d/1iqeB4vIg8knjMk-8lYP9JRvI7Juh0FBm/view?usp=sharing). -->
-- 💪 This is where I write, code and solve problems:
+- 🧠 Interested in Competetive Programming.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Ahmed-Yessine-Maalej" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ahmed-yessine-maalej-8b9884261/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"   width="40" /></a>
+&nbsp;
+<a href="https://www.facebook.com/maalej.ahmedyassine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+&nbsp;
+<a href="https://codeforces.com/profile/maalejaym" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/AYM123/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/21246428/ahmed-yessine-maalej" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.hackerrank.com/maalejaym" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedYassineMaalej&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 
 <!--
 **Ahmed-Yessine-Maalej/Ahmed-Yessine-Maalej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
