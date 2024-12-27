@@ -11,10 +11,10 @@ I enjoy programming and spend my free time working on either personal project or
 
 ### More About Me:
 
-- 👨‍🎓 [INSAT](https://insat.rnu.tn/) student <!-- - 🔭 I’m currently working on a personal project "**MLINYB**" -->
+- 👨‍🎓 [INSAT](https://insat.rnu.tn/) student 
 - 💪 Proficient in python and rust.
 - 💬 Ask me about anything, I am happy to help
-- 📬 How to reach me: [ahmedyessinemaalej@gmail.com](mailto:ahmedyessinemaalej@gmail.com)<!-- - 📝 [Resume](https://drive.google.com/file/d/1iqeB4vIg8knjMk-8lYP9JRvI7Juh0FBm/view?usp=sharing). -->
+- 📬 Contacts: [ahmedyessinemaalej@gmail.com](mailto:ahmedyessinemaalej@gmail.com)
 - 🧠 Interested in Competetive Programming.
 
 &nbsp;&nbsp;&nbsp;
